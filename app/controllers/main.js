@@ -1,8 +1,14 @@
 var nguoiDungService = new NguoiDungService();
 
 function themTestGit(){
+<<<<<<< HEAD
     console.log("them ducvidai");
 }
+=======
+    console.log("them nguoi dung");
+}
+
+>>>>>>> master
 getListUser();
 
 getEle("btnThemNguoiDung").addEventListener("click",function(){
